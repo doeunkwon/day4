@@ -27,3 +27,9 @@ https://github.com/user-attachments/assets/c0bc5565-ba45-4ffd-818a-eba8fb1908fc
 4. Select your preferred iOS Simulator or connect your physical iOS device.
 5. Build and run the app using the play button in Xcode.
 
+## High Score
+- My high score is 10. Message me if you beat my score.
+
+<p align="center">
+  <img width="400" src="https://github.com/user-attachments/assets/b4248cde-1d68-47db-82cd-d8538c9f8807">
+</p
