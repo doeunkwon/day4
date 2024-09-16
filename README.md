@@ -9,6 +9,8 @@
 - The game continues indefinitely — play as long as you like!
 - No data is recorded, and there are no complicated rules. It's a perfect little mini-game to pass the time.
 
+https://github.com/user-attachments/assets/c0bc5565-ba45-4ffd-818a-eba8fb1908fc
+
 ## Features
 - **UIKit + SwiftUI**: day4 integrates SwiftUI components into a UIKit-based app.
 - **High Score & Streak Tracking**: See how long you can keep your streak going!
@@ -24,3 +26,4 @@
    open day4.xcodeproj
 4. Select your preferred iOS Simulator or connect your physical iOS device.
 5. Build and run the app using the play button in Xcode.
+
